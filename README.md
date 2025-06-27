@@ -17,4 +17,5 @@ You may use, share, and modify the materials **for non-commercial purposes**, as
 
 
 ## Special Thanks
-@ArnavK-09 - https://github.com/ArnavK-09/AvatarArchives/
+Special thanks to [@ArnavK-09](https://github.com/ArnavK-09) for the awesome Avatar resources in [AvatarArchives](https://github.com/ArnavK-09/AvatarArchives).
+
