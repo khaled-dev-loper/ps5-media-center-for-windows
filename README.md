@@ -41,6 +41,12 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 You may use, share, and modify the materials **for non-commercial purposes**, as long as you provide proper attribution.  
 **Commercial use is not permitted.**
 
+> 🚦 **Special Permission for YouTube Creators:**  
+> YouTube creators (including monetized and sponsored channels) are **explicitly allowed** to create, publish, and monetize videos featuring, reviewing, or demonstrating this project.  
+> Proper attribution and a link to this repository are required.  
+> For other commercial uses, the standard [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/legalcode) still applies.
+
+
 
 # ⚠️ Disclaimer
 
